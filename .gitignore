@@ -130,6 +130,7 @@ ENV/
 env.bak/
 venv.bak/
 3dso_env
+so_env
 
 # Spyder project settings
 .spyderproject
