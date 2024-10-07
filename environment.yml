@@ -1,4 +1,4 @@
-name: d:\Zou\3DSO\PY\SeiOcean\3dso_env
+name: so3d_env
 channels:
   - defaults
 dependencies:
@@ -96,4 +96,4 @@ dependencies:
       - win32-setctime==1.1.0
       - xarray==2024.9.0
       - zict==3.0.0
-prefix: 
+prefix: D:\Nik\SO3D\SeiOcean
