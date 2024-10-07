@@ -129,7 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-3dso_env
+so3d_env
 so_env
 
 # Spyder project settings
